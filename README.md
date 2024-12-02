@@ -2,7 +2,7 @@
 
 # QR Attendance System
 
-![image](https://github.com/Ananyapk25/QR-Attendance/assets/112647789/dbc0c061-76d0-45bb-b5da-7f4373ffd073)
+![image](https://i.imgur.com/0h93xI7.png)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## Overview
 
-The QR Code Attendance System is an efficient,fast and user-friendly tool for tracking attendance using QR codes. It utilizes HTML, CSS, and Django to create a web-based interface for marking attendance. This system is designed to work seamlessly when devices are connected to the __Same College Local Network__.
+The QR Code Attendance System is an efficient, fast and user-friendly tool for tracking attendance using QR codes. It utilizes HTML, CSS, and Django to create a web-based interface for marking attendance. This system is designed to work seamlessly when devices are connected to the __Same College Local Network__.
 
 The teacher/faculty can display the QR Code using classroom projector so that present students can scan and mark their attendance.
 
@@ -46,7 +46,7 @@ Before you begin, ensure you have the following prerequisites installed:
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/AzeemIdrisi/QR-Attendance-System
+   git clone https://github.com/Ananyapk25/QR-Attendance
    ```
 
 2. **Navigate to the Project Directory:**
@@ -139,10 +139,10 @@ Before you begin, ensure you have the following prerequisites installed:
 ## Screenshots
 
 ### Admin Page
-![image](https://github.com/Ananyapk25/QR-Attendance/assets/112647789/e4c9f2d8-6b8e-44de-a63d-f7e5db45383e)
+![image](https://i.imgur.com/xTxXURt.png)
 
 ### Student Page
-![image](https://github.com/Ananyapk25/QR-Attendance/assets/112647789/a8e2f4a7-831c-4ac5-8e1b-c917a9ca9001)
+![image](https://i.imgur.com/fD1kwef.png)
 
 ### Submission Successful Page
-![image](https://github.com/Ananyapk25/QR-Attendance/assets/112647789/0f77779e-7648-4356-84c0-7db58b3e786c)
+![image](https://i.imgur.com/0AomwUn.png)
